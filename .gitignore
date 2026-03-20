@@ -1,0 +1,18 @@
+# Dependencias de Node (Esta es la más importante)
+node_modules/
+
+# Reportes de Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Si instalas Mochawesome para los reportes
+cypress/results/
+mochawesome-report/
+
+# Archivos de configuración local y secretos
+.env
+package-lock.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

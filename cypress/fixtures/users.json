@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "username": "cuco20@gmail.com",
+    "password": "Cuco2020"
+  },
+  "checkoutData": {
+    "name": "Juan Gonzales",
+    "country": "Dominican Republic",
+    "city": "Santo Domingo",
+    "card": "248154683546846",
+    "month": "12",
+    "year": "2026"
+  }
+}
