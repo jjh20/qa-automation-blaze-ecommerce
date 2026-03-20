@@ -30,4 +30,4 @@ El script principal (DM001.cy.js) cubre el siguiente flujo:
    npx cypress run
 
 ---
-Autor: Jael H. - Estudiante de Ingeniería de Software (UNAPEC)
+Autor: Jael J. - Estudiante de Ingeniería de Software (UNAPEC) y Tecnólogo en Desarrollo de Software (ITLA)
